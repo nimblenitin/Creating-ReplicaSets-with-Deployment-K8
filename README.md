@@ -1,8 +1,9 @@
 # Creating-ReplicaSets-with-Deployment-K8
 A Deployment is a higher-level concept that manages ReplicaSets and provides declarative updates to Pods along with a lot of other useful features
 
-## Simple example to create Pod in Declarative method with YAML
+Simple example to create ReplicaSets with Deployment in Declarative method with YAML
 Steps followed-
+
 *As Root*
 ```
 
